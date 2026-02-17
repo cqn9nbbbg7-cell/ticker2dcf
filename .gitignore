@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# python junk
+__pycache__/
+*.pyc
+
+# generated reports
+reports/
+*.xlsx
+
+# venvs
+.venv/
+venv/
